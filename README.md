@@ -17,16 +17,19 @@ his project builds an analytics system to track growth, activation, retention, e
  -open jupyter notebook , Run `file_name.ipynb', Generate report .
 
 
- #Dashboards
- Growth dashboard v1
- Engagement Dshboard v1
- activation dashboard v1
- Retension dashboard v1
- Content dashboard v2 
- job dashboard v1
- Admin Dashboard v1 
- Admin dashboard v2
 
+#Dashboards
+- users.csv  
+- events.csv
+- Growth dashboard v1
+- Engagement Dshboard v1
+- Retension dashboard v1
+- activation dashboard v1
+- Content dashboard v2
+- job dashboard v1
+- Admin Dashboard v1
+- Admin dashboard v2
+ 
 
  #KPI Definitions
  - DAU = Daily Active Users
